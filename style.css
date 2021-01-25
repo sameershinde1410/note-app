@@ -152,5 +152,48 @@ button:hover, .color-box:hover {
 #btn-delete {
   background-color: #E41A36;
 }
+.white {
+  background-color: white;
+}
+
+.orange {
+  background-color: #FFD37F;
+}
+
+.banana {
+  background-color: #FFFA81;
+}
+
+.honeydew {
+  background-color: #D5FA80;
+}
+
+.flora {
+  background-color: #78F87F;
+}
+
+.aqua {
+  background-color: #79FBD6;
+}
+
+.ice {
+  background-color: #79FDFE;
+}
+
+.sky {
+  background-color: #7AD6FD;
+}
+
+.orchid {
+  background-color: #7B84FC;
+}
+
+.lavendar {
+  background-color: #D687FC;
+}
+
+.pink {
+  background-color: #FF89FD;
+}
 
 
